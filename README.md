@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🧑‍🏫 I’m currently working on<br>A portfolio website to showcase my skills in HTML, CSS, and JavaScript.<br><br>🤝 I’m looking to collaborate on<br>Small web development projects or beginner-friendly open-source contributions.<br><br>🙋‍♂ I’m looking for help with<br>Improving my JavaScript skills and learning how to connect frontend with backend.<br><br>🔥 I’m currently learning<br>Web development (HTML, CSS, JavaScript) and basics of Git & GitHub.<br><br>💬 Ask me about<br>Basic Excel, Tally, or how to get started with web development as a beginner.<br><br>⚡ Fun fact<br>I can turn a boring day into a productive one with just a good playlist and coffee!
+🧑‍🏫 I’m currently working on<br>A portfolio website to showcase my skills in HTML, CSS, and JavaScript.<br><br>🤝 I’m looking to collaborate on<br>Small web development projects or beginner-friendly open-source contributions.
 
 
 ## 🌐 Socials:
